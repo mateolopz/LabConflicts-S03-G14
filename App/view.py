@@ -59,11 +59,13 @@ def loadTags():
     """
     return controller.loadTags('GoodReads/tags.csv')
 
+
 def loadBookTags():
     """
     Cargar los Tags de libros
     """
     # TODO: Modificación de Est-1 en el Lab 2
+    pass
 
 
 """
